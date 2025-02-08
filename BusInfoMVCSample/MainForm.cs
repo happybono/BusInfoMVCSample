@@ -149,6 +149,8 @@ namespace BusInfoMVCSample.Views
                 }
                 else
                 {
+                    errorPanels[i].Visible = true;
+                    errorLabels[i].Text = "";
                     if (i < arrivalTimeLabels.Count) arrivalTimeLabels[i].Text = string.Empty;
                     if (i < stopCountLabels.Count) stopCountLabels[i].Text = string.Empty;
                     if (i < congestionLabels.Count) congestionLabels[i].Text = string.Empty;
@@ -173,7 +175,7 @@ namespace BusInfoMVCSample.Views
                 }
             }
         }
-
+        
         private void InitializeCurrentTimeTimer()
         {
             _currentTimeTimer = new Timer();
