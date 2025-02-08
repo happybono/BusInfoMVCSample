@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics.Eventing.Reader;
 using System.Threading.Tasks;
@@ -115,6 +115,7 @@ namespace BusInfoMVCSample.Views
                     if (i < timeDiffLabels.Count)
                     {
                         timeDiffLabels[i].Text = "";
+                        urgentCongestionLabels[i].Text = "";
                     }
                 }
             }
@@ -173,7 +174,6 @@ namespace BusInfoMVCSample.Views
             }
         }
 
-
         private void InitializeCurrentTimeTimer()
         {
             _currentTimeTimer = new Timer();
@@ -181,8 +181,6 @@ namespace BusInfoMVCSample.Views
             _currentTimeTimer.Tick += CurrentTimeTimer_Tick;
             _currentTimeTimer.Start();
         }
-
-
 
         private void CurrentTimeTimer_Tick(object sender, EventArgs e)
         {
