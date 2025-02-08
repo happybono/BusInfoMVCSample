@@ -58,7 +58,7 @@ namespace BusInfoMVCSample.Views
             timeDiffLabels = new List<Label> { labelTimeDiff1, labelTimeDiff2, labelTimeDiff3 };
 
             errorLabels = new List<Label> { labelError1, labelError2, labelError3 };
-            errorPanels = new List<Panel> { panelError1, panelError2,  panelError3 };
+            errorPanels = new List<Panel> { panelError1, panelError2, panelError3 };
         }
 
         private async void MainForm_Load(object sender, EventArgs e)
