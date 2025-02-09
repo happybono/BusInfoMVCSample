@@ -1,4 +1,4 @@
-﻿namespace BusInfoMVCSample.Views
+namespace BusInfoMVCSample.Views
 {
     partial class MainForm
     {
@@ -540,7 +540,7 @@
             this.labelTimeDiff2.Font = new System.Drawing.Font("Microsoft NeoGothic", 18F, System.Drawing.FontStyle.Bold);
             this.labelTimeDiff2.Location = new System.Drawing.Point(548, 116);
             this.labelTimeDiff2.Name = "labelTimeDiff2";
-            this.labelTimeDiff2.Size = new System.Drawing.Size(162, 32);
+            this.labelTimeDiff2.Size = new System.Drawing.Size(200, 32);
             this.labelTimeDiff2.TabIndex = 39;
             this.labelTimeDiff2.Text = " ";
             // 
@@ -549,7 +549,7 @@
             this.labelTimeDiff3.Font = new System.Drawing.Font("Microsoft NeoGothic", 18F, System.Drawing.FontStyle.Bold);
             this.labelTimeDiff3.Location = new System.Drawing.Point(837, 116);
             this.labelTimeDiff3.Name = "labelTimeDiff3";
-            this.labelTimeDiff3.Size = new System.Drawing.Size(162, 32);
+            this.labelTimeDiff3.Size = new System.Drawing.Size(200, 32);
             this.labelTimeDiff3.TabIndex = 40;
             this.labelTimeDiff3.Text = " ";
             // 
@@ -558,7 +558,7 @@
             this.labelTimeDiff1.Font = new System.Drawing.Font("Microsoft NeoGothic", 18F, System.Drawing.FontStyle.Bold);
             this.labelTimeDiff1.Location = new System.Drawing.Point(256, 116);
             this.labelTimeDiff1.Name = "labelTimeDiff1";
-            this.labelTimeDiff1.Size = new System.Drawing.Size(162, 32);
+            this.labelTimeDiff1.Size = new System.Drawing.Size(200, 32);
             this.labelTimeDiff1.TabIndex = 41;
             this.labelTimeDiff1.Text = " ";
             // 
