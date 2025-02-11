@@ -1,6 +1,13 @@
 # BusInfoMVCSample
 Bus Information System for Gyeonggi-do (Gyeonggi Province), South Korea. The estimated arrival time is calculated based on real-time bus location data retrieved from the server once every 20 seconds. The system displays refined information on the Windows Forms Project.
 
+<div align="center">
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/happybono/BusInfoMVCSample"> 
+<img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/happybono/BusInfoMVCSample">
+<img alt="GitHub Repo Languages" src="https://img.shields.io/github/languages/count/happybono/BusInfoMVCSample">
+<img alt="GitHub Top Languages" src="https://img.shields.io/github/languages/top/HappyBono/BusInfoMVCSample">
+</div>
+
 ## Features
 - Retrieve and display real-time bus arrival information.
 - Display bus route names, destinations, and arrival times.
