@@ -14,6 +14,13 @@ Bus Information System for Gyeonggi-do (Gyeonggi Province), South Korea. The est
 - Windows Forms
 - MVC Pattern
 
+## Advantages of Using MVC Pattern
+- Separation of Concerns : Divides the application into three interconnected components - Model, View, and Controller. This separation makes it easier to manage and scale the application.
+- Maintainability : Changes in one component (like the user interface) can be made independently of the others (like business logic or data), which simplifies maintenance and updates.
+- Testability : Each component can be tested individually, making it easier to perform unit testing and ensure high code quality.
+- Reusability : Components such as Models and Controllers can be reused across different views, promoting code reusability and reducing duplication.
+- Flexibility : Enhances the flexibility of the application by allowing developers to work on different parts of the application simultaneously without interfering with each other's work.
+
 ## Usage
 ### MainForm
 The `MainForm` class is the main user interface that displays real-time bus arrival information. It consists of various labels and panels to show bus routes, arrival times, remaining stops, congestion levels, and error messages.
