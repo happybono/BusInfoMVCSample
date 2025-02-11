@@ -12,6 +12,7 @@ Bus Information System for Gyeonggi Province, South Korea. The estimated arrival
 - C#
 - .NET Framework
 - Windows Forms
+- MVC Pattern
 
 ## Usage
 ### MainForm
