@@ -78,5 +78,8 @@ Two timers are used in the application:
 - `LowPlate2` : Indicates if the second bus is a low-floor bus.
 - `ErrorMessage` : Error message if there is an issue with retrieving bus information.
 
-#### License
+## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Copyright 
+Copyright ⓒ HappyBono 2025. All rights Reserved.
