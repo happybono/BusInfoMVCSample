@@ -20,8 +20,8 @@ The `MainForm` class is the main user interface that displays real-time bus arri
 
 ### Timers
 Two timers are used in the application:
-- _timer : Updates bus information every 20 seconds.
-- _currentTimeTimer : Updates the current time every second.
+- `_timer` : Updates bus information every 20 seconds.
+- `_currentTimeTimer` : Updates the current time every second.
 
 ### Controllers
 `BusController` : Handles the logic for retrieving bus information and processing it for display.
