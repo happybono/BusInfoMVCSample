@@ -19,7 +19,7 @@ Bus Information System for Gyeonggi-do (Gyeonggi Province), South Korea. The est
 - C#
 - .NET Framework
 - Windows Forms
-- MVC Pattern
+- MVC Pattern (**This sample is designed to be easily understandable for those new to the MVC pattern.**)
 
 ## Advantages of Using MVC Pattern
 - Separation of Concerns : Divides the application into three interconnected components - Model, View, and Controller. This separation makes it easier to manage and scale the application.
