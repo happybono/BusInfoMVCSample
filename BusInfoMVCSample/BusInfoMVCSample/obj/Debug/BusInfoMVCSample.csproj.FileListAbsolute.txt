@@ -1,0 +1,11 @@
+D:\BusInfoMVCSample\BusInfoMVCSample\BusInfoMVCSample\bin\Debug\BusInfoMVCSample.exe.config
+D:\BusInfoMVCSample\BusInfoMVCSample\BusInfoMVCSample\bin\Debug\BusInfoMVCSample.exe
+D:\BusInfoMVCSample\BusInfoMVCSample\BusInfoMVCSample\bin\Debug\BusInfoMVCSample.pdb
+D:\BusInfoMVCSample\BusInfoMVCSample\BusInfoMVCSample\obj\Debug\BusInfoMVCSample.csproj.AssemblyReference.cache
+D:\BusInfoMVCSample\BusInfoMVCSample\BusInfoMVCSample\obj\Debug\BusInfoMVCSample.FrmSetup.resources
+D:\BusInfoMVCSample\BusInfoMVCSample\BusInfoMVCSample\obj\Debug\BusInfoMVCSample.Views.MainForm.resources
+D:\BusInfoMVCSample\BusInfoMVCSample\BusInfoMVCSample\obj\Debug\BusInfoMVCSample.Properties.Resources.resources
+D:\BusInfoMVCSample\BusInfoMVCSample\BusInfoMVCSample\obj\Debug\BusInfoMVCSample.csproj.GenerateResource.cache
+D:\BusInfoMVCSample\BusInfoMVCSample\BusInfoMVCSample\obj\Debug\BusInfoMVCSample.csproj.CoreCompileInputs.cache
+D:\BusInfoMVCSample\BusInfoMVCSample\BusInfoMVCSample\obj\Debug\BusInfoMVCSample.exe
+D:\BusInfoMVCSample\BusInfoMVCSample\BusInfoMVCSample\obj\Debug\BusInfoMVCSample.pdb
