@@ -1,4 +1,4 @@
-﻿namespace BusInfoMVCSample
+namespace BusInfoMVCSample
 {
     partial class FrmSetup
     {
@@ -99,6 +99,7 @@
             this.textBoxBusStop1.Name = "textBoxBusStop1";
             this.textBoxBusStop1.Size = new System.Drawing.Size(177, 27);
             this.textBoxBusStop1.TabIndex = 1;
+            this.textBoxBusStop1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBoxBusStop1_KeyDown);
             // 
             // textBoxBusStop2
             // 
@@ -107,6 +108,7 @@
             this.textBoxBusStop2.Name = "textBoxBusStop2";
             this.textBoxBusStop2.Size = new System.Drawing.Size(177, 27);
             this.textBoxBusStop2.TabIndex = 5;
+            this.textBoxBusStop2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBoxBusStop2_KeyDown);
             // 
             // textBoxBusStop3
             // 
@@ -115,6 +117,7 @@
             this.textBoxBusStop3.Name = "textBoxBusStop3";
             this.textBoxBusStop3.Size = new System.Drawing.Size(177, 27);
             this.textBoxBusStop3.TabIndex = 9;
+            this.textBoxBusStop3.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBoxBusStop3_KeyDown);
             // 
             // comboBoxBusStops3
             // 
@@ -237,6 +240,7 @@
             this.textBoxBusStop6.Name = "textBoxBusStop6";
             this.textBoxBusStop6.Size = new System.Drawing.Size(177, 27);
             this.textBoxBusStop6.TabIndex = 21;
+            this.textBoxBusStop6.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBoxBusStop6_KeyDown);
             // 
             // textBoxBusStop5
             // 
@@ -245,6 +249,7 @@
             this.textBoxBusStop5.Name = "textBoxBusStop5";
             this.textBoxBusStop5.Size = new System.Drawing.Size(177, 27);
             this.textBoxBusStop5.TabIndex = 17;
+            this.textBoxBusStop5.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBoxBusStop5_KeyDown);
             // 
             // textBoxBusStop4
             // 
@@ -253,6 +258,7 @@
             this.textBoxBusStop4.Name = "textBoxBusStop4";
             this.textBoxBusStop4.Size = new System.Drawing.Size(177, 27);
             this.textBoxBusStop4.TabIndex = 13;
+            this.textBoxBusStop4.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBoxBusStop4_KeyDown);
             // 
             // comboBoxRoutes5
             // 
